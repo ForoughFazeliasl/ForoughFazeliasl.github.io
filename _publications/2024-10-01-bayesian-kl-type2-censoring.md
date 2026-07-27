@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Model Fit for Type II Censored Data: A Bayesian Non-Parametric Approach Based on the Kullback-Leibler Divergence Estimation"
 collection: publications
-authors: "Al-Labadi, L., Fazeli Asl, F., & Ly, A."
+authors: "Al-Labadi, L., Fazeliasl, F., Ly, A."
 category: journal
 permalink: /publication/2024-bayesian-kl-type2-censoring
 excerpt: "We develop a Bayesian nonparametric framework for assessing model fit in Type II censored data using Kullback–Leibler divergence estimation."
