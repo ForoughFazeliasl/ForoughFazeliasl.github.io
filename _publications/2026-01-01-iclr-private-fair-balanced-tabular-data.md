@@ -1,5 +1,6 @@
 ---
 title: "A Bayesian Nonparametric Framework for Private, Fair, and Balanced Tabular Data Synthesis"
+aouthors: "Fazeliasl, F., Zhang, M. M., & Kong, L., Jiang, B."
 collection: publications
 category: conferences
 permalink: /publication/2026-iclr-private-fair-balanced-tabular-data
