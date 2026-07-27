@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian One-Sample Test for Proportion"
 collection: publications
-authors: "Al-Labadi, L., Cheng, Y., Fazeliasl, F., Lim, K., & Weng, Y."
+authors: "Al-Labadi, L., Cheng, Y., Fazeliasl, F., Lim, K., Weng, Y."
 category: manuscripts
 permalink: /publication/2022-bayesian-one-sample-test-proportion
 excerpt: "We develop a Bayesian methodology for one-sample hypothesis testing of proportions with improved inferential performance."
