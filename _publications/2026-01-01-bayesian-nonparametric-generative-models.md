@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2026-bnp-generative-models
 excerpt: "We propose a Bayesian nonparametric framework that integrates variational autoencoders and generative adversarial networks using Wasserstein distance and maximum mean discrepancy."
 date: 2026-01-01
+venue: "arXiv"
 paperurl: "https://export.arxiv.org/pdf/2308.14048"
 ---
 
