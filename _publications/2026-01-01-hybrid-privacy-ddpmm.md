@@ -1,6 +1,7 @@
 ---
 title: "Hybrid Privacy via Dirichlet Process Mixture Models: Differentially Private Weights and Diffusion-Based Centroid Protection"
 collection: publications
+authors: "F. Fazeli Asl, E. Shi, B. Jiang, L. Kong"
 category: manuscripts
 permalink: /publication/2026-hybrid-privacy-ddpmm
 excerpt: "We develop a hybrid privacy framework for Dirichlet process mixture models by combining differential privacy for mixture weights with diffusion-based protection of cluster centroids."
