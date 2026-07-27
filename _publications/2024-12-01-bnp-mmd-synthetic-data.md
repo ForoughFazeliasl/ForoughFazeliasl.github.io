@@ -8,9 +8,6 @@ excerpt: "We propose a Bayesian nonparametric framework based on the maximum mea
 date: 2024-12-01
 venue: "NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty"
 paperurl: "https://openreview.net/pdf?id=bXAR2BOFJJ"
-slidesurl: ""
-bibtexurl: ""
-citation: 'Fazeli Asl, F., Zhang, M. M., & Lin, L. (2024). <i>Bayesian Nonparametric Learning Using the Maximum Mean Discrepancy Measure for Synthetic Data Generation</i>. In <i>NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty</i>.'
 ---
 
 ## Abstract
