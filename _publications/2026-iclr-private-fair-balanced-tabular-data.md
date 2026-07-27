@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-iclr-private-fair-balanced-tabular-data
 date: 2026-01-01
 venue: "International Conference on Learning Representations (ICLR)"
-excerpt: "Accepted at ICLR 2026."
+excerpt: "Published at ICLR 2026."
 ---
 
-Accepted at ICLR 2026.
+Published at ICLR 2026.
