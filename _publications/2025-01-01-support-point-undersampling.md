@@ -1,6 +1,6 @@
 ---
 title: "Support Point Undersampling in Latent Space: An Informative Latent Mapping Approach to Class Imbalance in High-Dimensional Data"
-aouthors: "Fazeliasl, F., Sahoo, S., Mak, A.,  Zhang, N., Jiang, B., Kong, L."
+authors: "Fazeliasl, F., Sahoo, S., Mak, A., Zhang, N., Jiang, B., Kong, L."
 collection: publications
 category: manuscripts
 permalink: /publication/2025-support-point-undersampling
