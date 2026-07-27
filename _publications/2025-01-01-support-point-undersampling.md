@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-support-point-undersampling
 excerpt: "We propose an informative latent mapping framework based on support point undersampling to address class imbalance in high-dimensional data."
 date: 2025-01-01
-venue: "arXiv"
+venue: ""
 paperurl: ""
 ---
 
