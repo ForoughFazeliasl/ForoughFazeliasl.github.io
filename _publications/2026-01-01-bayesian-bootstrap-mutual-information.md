@@ -1,5 +1,6 @@
 ---
 title: "A Bayesian Bootstrap Framework for Mutual Information Neural Estimation: Bridging Classical Mutual Information Learning and Bayesian Nonparametric Learning"
+aouthors: "Fazeliasl, F., Zhang, M. M., & Kong, L., Jiang, B."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-bayesian-bootstrap-mutual-information
