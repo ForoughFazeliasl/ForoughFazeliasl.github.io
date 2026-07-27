@@ -8,9 +8,6 @@ excerpt: "We investigate the robustness of the relative belief ratio and its str
 date: 2022-08-01
 venue: "Journal of the Korean Statistical Society"
 paperurl: "https://doi.org/10.1007/s42952-022-00170-8"
-slidesurl: ""
-bibtexurl: ""
-citation: 'Al-Labadi, L., & Fazeli Asl, F. (2022). <i>On Robustness of the Relative Belief Ratio and the Strength of Its Evidence with Respect to the Geometric Contamination Prior</i>. <i>Journal of the Korean Statistical Society</i>, 51, 961–975.'
 ---
 
 ## Abstract
