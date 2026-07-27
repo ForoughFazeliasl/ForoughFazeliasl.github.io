@@ -5,7 +5,7 @@ authors: "Al-Labadi, L., Fazeliasl, F., Ly, A."
 category: manuscripts
 permalink: /publication/2024-bayesian-kl-type2-censoring
 excerpt: "We develop a Bayesian nonparametric framework for assessing model fit in Type II censored data using Kullback–Leibler divergence estimation."
-date: 2024-10-01
+date: 2023-10-01
 venue: "Communications in Statistics – Simulation and Computation"
 paperurl: "https://doi.org/10.1080/03610918.2024.2417808"
 ---
