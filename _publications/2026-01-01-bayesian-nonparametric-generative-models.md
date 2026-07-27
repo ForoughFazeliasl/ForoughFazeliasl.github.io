@@ -1,5 +1,6 @@
 ---
 title: "A Bayesian Nonparametric Approach to Generative Models: Integrating Variational Autoencoders and Generative Adversarial Networks Using Wasserstein and Maximum Mean Discrepancy"
+aouthors: "Fazeliasl, F., Zhang, M. M."
 collection: publications
 category: manuscripts
 permalink: /publication/2026-bnp-generative-models
