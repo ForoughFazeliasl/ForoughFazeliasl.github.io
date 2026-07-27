@@ -1,7 +1,7 @@
 ---
 title: "A Semi-Bayesian Nonparametric Estimator of the Maximum Mean Discrepancy Measure"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-semi-bayesian-mmd
 excerpt: "A semi-Bayesian nonparametric estimator of maximum mean discrepancy with applications to goodness-of-fit testing and generative adversarial networks."
 date: 2024-01-01
