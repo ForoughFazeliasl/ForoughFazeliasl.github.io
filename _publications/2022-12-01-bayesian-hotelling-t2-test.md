@@ -2,7 +2,7 @@
 title: "On Bayesian Hotelling's $T^2$ Test for the Mean"
 collection: publications
 authors: "Al-Labadi, L., Fazeliasl, F., & Lim, K."
-category: journal
+category: manuscripts
 permalink: /publication/2022-bayesian-hotelling-t2
 excerpt: "We develop a Bayesian version of Hotelling's $T^2$ test for multivariate mean inference."
 date: 2022-12-01
