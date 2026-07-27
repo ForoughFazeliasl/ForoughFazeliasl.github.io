@@ -3,7 +3,7 @@ title: "A Bayesian Nonparametric Framework for Private, Fair, and Balanced Tabul
 collection: publications
 category: conferences
 permalink: /publication/2026-iclr-private-fair-balanced-tabular-data
-excerpt: "Published at ICLR 2026."
+excerpt: "We develop a Bayesian nonparametric conditional generator that jointly enforces fairness, privacy, and balanced representation in synthetic data generation."
 date: 2026-02-01
 venue: "International Conference on Learning Representations (ICLR)"
 paperurl: 'https://openreview.net/pdf?id=j0czDrEnFc'
