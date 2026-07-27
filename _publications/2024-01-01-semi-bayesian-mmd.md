@@ -1,6 +1,7 @@
 ---
 title: "A Semi-Bayesian Nonparametric Estimator of the Maximum Mean Discrepancy Measure"
 collection: publications
+authors: "Fazeliasl, F., Zhang, M. M., Lin, L."
 category: manuscripts
 permalink: /publication/2024-semi-bayesian-mmd
 excerpt: "We propose a semi-Bayesian nonparametric estimator of maximum mean discrepancy for goodness-of-fit testing and generative adversarial networks."
