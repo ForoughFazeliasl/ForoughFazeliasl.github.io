@@ -4,7 +4,7 @@ collection: publications
 authors: "Al-Labadi, L., Fazeliasl, F., & Lim, K."
 category: manuscripts
 permalink: /publication/2022-bayesian-hotelling-t2
-excerpt: "We develop a Bayesian version of Hotelling's $T^2$ test for multivariate mean inference."
+excerpt: "We develop a Bayesian version of Hotelling's <em>T</em><sup>2</sup> test for multivariate mean inference."
 date: 2022-12-01
 venue: "Communications in Statistics – Simulation and Computation"
 paperurl: "https://doi.org/10.1080/03610918.2022.2155306"
