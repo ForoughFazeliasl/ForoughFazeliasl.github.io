@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2026-05-01-ssc-annual-meeting
 venue: "2026 Statistical Society of Canada Annual Meeting"
-date: 2026-05-01
+date: 2026-05-02
 location: "McMaster University, Hamilton, Ontario, Canada"
 ---
 
