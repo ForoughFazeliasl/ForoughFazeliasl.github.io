@@ -1,7 +1,7 @@
 ---
 title: "On Robustness of the Relative Belief Ratio and the Strength of Its Evidence with Respect to the Geometric Contamination Prior"
 collection: publications
-authors: "Al-Labadi, L., Fazeliasl, F."
+authors: "Al-Labadi, L., & Fazeliasl, F."
 category: manuscripts
 permalink: /publication/2022-relative-belief-robustness
 excerpt: "We investigate the robustness of the relative belief ratio and its strength of evidence under geometric contamination priors."
