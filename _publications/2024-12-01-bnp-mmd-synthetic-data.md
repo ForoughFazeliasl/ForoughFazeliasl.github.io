@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Nonparametric Learning Using the Maximum Mean Discrepancy Measure for Synthetic Data Generation"
 collection: publications
-authors: "Fazeli Asl, F., Zhang, M. M., Lin, L."
+authors: "Fazeli Asl, F., Zhang, M. M., & Lin, L."
 category: conferences
 permalink: /publication/2024-neurips-bnp-mmd
 excerpt: "We propose a Bayesian nonparametric framework based on the maximum mean discrepancy measure for high-quality synthetic data generation."
