@@ -8,7 +8,7 @@ date: 2026-01-01
 location: "Edmonton, Alberta, Canada"
 ---
 
-**Role:** Instructor
+**Role:** Principal Instructor
 
 **Course:** Introduction to Applied Statistics II (Winter 2026)
 
