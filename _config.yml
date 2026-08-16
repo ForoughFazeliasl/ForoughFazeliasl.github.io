@@ -10,7 +10,6 @@ description              : &description "Postdoctoral Fellow in deep learning, B
 url                      : "https://foroughfazeliasl.github.io"
 baseurl                  : ""
 
-google_site_verification: "Az8huMyW_l7K-ZLzpq-UuO-PtLbqU1Z73yDNvFJWlWw"
 
 repository               : "ForoughFazeliasl/ForoughFazeliasl.github.io"
 
@@ -124,7 +123,7 @@ atom_feed:
   path                   :
 
 # SEO Related
-google_site_verification :
+google_site_verification : "Az8huMyW_l7K-ZLzpq-UuO-PtLbqU1Z73yDNvFJWlWw"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
